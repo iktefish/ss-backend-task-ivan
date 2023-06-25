@@ -1,3 +1,23 @@
+# Gettin started
+
+First clone this repository:
+
+~~~sh
+git clone git@github.com:iktefish/ss-backend-task-ivan.git
+~~~
+
+Then `cd` into the project directory and install the necessary
+modules and dependencies:
+
+~~~sh
+npm i
+~~~
+
+-   All HTTP handlers and controllers are implemented in `controllers/controllers.ts`
+-   Database schema is implemented in `schema/media.ts` and `schema/user.ts`
+-   Authentication middleware is implemented in `middleware/auth.ts`
+-   Every piece of JSON data used and generated are provided below this document
+
 # Dependencies
 
 We will be using the following development dependencies:
