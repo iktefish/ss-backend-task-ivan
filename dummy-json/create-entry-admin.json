@@ -1,0 +1,7 @@
+{
+    "name": "Name of the Movie",
+    "actors": ["Actor 1", "Actor 2"],
+    "director": "I am the director",
+    "producers": ["Producer"],
+    "runtime": "120"
+}

@@ -1,0 +1,7 @@
+{
+    "name": "Guest trying to input Movie",
+    "actors": ["Actor A", "Actor B"],
+    "director": "That is the director",
+    "producers": ["Producer"],
+    "runtime": "20"
+}
