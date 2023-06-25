@@ -13,6 +13,14 @@ modules and dependencies:
 npm i
 ~~~
 
+To run the server execute:
+
+~~~sh
+npm run dev
+~~~
+
+This will run the server loop at `localhost:8080`.
+
 -   All HTTP handlers and controllers are implemented in `controllers/controllers.ts`
 -   Database schema is implemented in `schema/media.ts` and `schema/user.ts`
 -   Authentication middleware is implemented in `middleware/auth.ts`
